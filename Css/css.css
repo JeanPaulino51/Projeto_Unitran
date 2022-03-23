@@ -1,0 +1,92 @@
+
+     body{
+         
+         margin:0px;
+         
+     }
+
+        h1{
+            font-size: 48px;
+            padding-top: 270px;
+            padding-right:15px ;
+            color: yellow;
+            text-align: right;
+        }
+
+   .cabec{
+       
+       background-image: url(../fotos/unitran-logo-black.png);
+       height: 633px;
+       width: 97%;
+       background-color: rgb(58, 0, 165);
+       background-size: cover;
+       margin-top: 15px;
+       margin-left: 15px;
+       padding-right: 10px;
+   }
+
+   li{
+       list-style-type: none;
+   }
+
+   .aluno , .instrutor{
+       display: inline-block;
+       font-size: 30px;
+       color: white;
+       background: violet;
+       text-decoration: none;
+       margin-top: 15px;
+       margin-left: 20px;
+       text-align: right;
+   }
+
+   ul li {
+       display: inline-block;
+       text-align: right;
+   }
+   
+           .apresent{
+               display: inline-block;
+               background-color: blueviolet;
+               height: 600px;
+               width: 97%;
+               margin-left: 20px;
+               margin-right: 10px;
+               margin-bottom: 200px;
+               margin-top: 10px;
+               
+           }
+
+           h2{
+               font-size: 75px;
+               color: yellow;
+               margin-left: 570px;
+           }
+
+
+    
+           .josi{
+               display: inline-block;
+               margin-left: 30px;
+           }
+
+
+           .fernanda{
+               display: inline-block;
+               margin-left: 20px;
+           }
+            
+           .vinicius{
+            display: inline-block;
+            margin-left: 20px;
+           }
+        
+           .gabriel{
+            display: inline-block;
+            margin-left: 20px;
+           }
+
+        
+   
+
+
